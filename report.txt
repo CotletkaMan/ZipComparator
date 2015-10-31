@@ -1,0 +1,5 @@
+| /Users/cotletkaman/IdeaProjects/ZipComparator/src/main/resources/thirth.zip | /Users/cotletkaman/IdeaProjects/ZipComparator/src/main/resources/one.zip |
+|________________________________________________________________________________________________________________________________________________________|
+| * file1                                                                     | * file1                                                                  |
+| + file3                                                                     |                                                                          |
+| + file4                                                                     |                                                                          |

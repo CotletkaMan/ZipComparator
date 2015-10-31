@@ -1,0 +1,12 @@
+zipcompare/common/FilesChoicer.class
+zipcompare/filefolder/ComparableObject.class
+zipcompare/report/Report.class
+zipcompare/ZipCompare.class
+zipcompare/report/GeneralReport.class
+zipcompare/ZipFileUtility.class
+zipcompare/filefolder/FileState.class
+zipcompare/filefolder/ZipFileInfo.class
+zipcompare/filefolder/DirectoryInfo.class
+zipcompare/filefolder/FileInfo.class
+zipcompare/ZipFileUtility$1.class
+zipcompare/report/FileReport.class
